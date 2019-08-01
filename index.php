@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Commissione Contrassegno Checkout
-Description: Un semplice plugin che aggiunge le commissione del contrassegno in checkout
+Description: Un semplice plugin che aggiunge le commissione del contrassegno (default: 3,90€) in checkout 
 Author: Carlo Stringaro
 Version: 1.0
 Author URI: http://www.carlostringaro.it
